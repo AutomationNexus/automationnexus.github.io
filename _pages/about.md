@@ -33,21 +33,13 @@ I have successfully cleared Certified Tester Foundation Level (CTFL) in July 202
 Career Details 
 ======
 
-1. Associate Quality Analyst Trainee at Copper Mobile Pvt. Ltd. (September 2021 – November 2021)
+1. Associate Quality Analyst Trainee at Copper Mobile Pvt. Ltd. (September 2021 – November 2021) : As a trainee, my primary responsibilities included writing and executing test cases, logging and tracking defects, and generating detailed reports to share insights with the team and stakeholders. This role served as an important foundation, familiarizing me with the core principles of quality assurance and industry-standard practices.
 
-As a trainee, my primary responsibilities included writing and executing test cases, logging and tracking defects, and generating detailed reports to share insights with the team and stakeholders. This role served as an important foundation, familiarizing me with the core principles of quality assurance and industry-standard practices.
+2. Associate Quality Analyst at Copper Mobile Pvt. Ltd. (December 2021 – January 2023) : After completing the internship, I was brought on board as an Associate Quality Analyst. My expanded responsibilities included not only test case creation and execution but also handling client demonstrations, maintaining tickets and sprint tracking in JIRA, and preparing QA documentation to communicate quality metrics and results effectively to all stakeholders.
 
-2. Associate Quality Analyst at Copper Mobile Pvt. Ltd. (December 2021 – January 2023)
+3. Analyst at Studio Graphene (February 2023 – May 2024) : My role at Studio Graphene involved writing and executing comprehensive test cases, leading client demos, managing JIRA tickets, and compiling QA documents to provide structured feedback to clients and stakeholders. This position strengthened my ability to manage complex projects and communicate effectively with clients to align quality standards with business expectations.
 
-After completing the internship, I was brought on board as an Associate Quality Analyst. My expanded responsibilities included not only test case creation and execution but also handling client demonstrations, maintaining tickets and sprint tracking in JIRA, and preparing QA documentation to communicate quality metrics and results effectively to all stakeholders.
-
-3. Analyst at Studio Graphene (February 2023 – May 2024)
-
-My role at Studio Graphene involved writing and executing comprehensive test cases, leading client demos, managing JIRA tickets, and compiling QA documents to provide structured feedback to clients and stakeholders. This position strengthened my ability to manage complex projects and communicate effectively with clients to align quality standards with business expectations.
-
-4. SDET at Skeps, Gurgaon (June 2024 – Present)
-
-At Skeps, I took on a more technical role as an SDET, where my tasks include executing scripts, conducting code reviews, deploying builds, and writing and executing both manual and automated test cases. This role has significantly deepened my understanding of software testing methodologies and enabled me to contribute to the team as a developer of test scripts, enhancing my skill set in both development and quality assurance.
+4. SDET at Skeps, Gurgaon (June 2024 – Present) : At Skeps, I took on a more technical role as an SDET, where my tasks include executing scripts, conducting code reviews, deploying builds, and writing and executing both manual and automated test cases. This role has significantly deepened my understanding of software testing methodologies and enabled me to contribute to the team as a developer of test scripts, enhancing my skill set in both development and quality assurance.
 
 
 Awards & Recognition
