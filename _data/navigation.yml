@@ -17,8 +17,8 @@ main:
   #- title: "Portfolio"
  #   url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Testing Musings"
+    url: /testing-musings/
     
   - title: "CV"
     url: \files\Ujjwal_Kumar_Singh_3_Years_Experience_QA_Resume.pdf

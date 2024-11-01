@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ujjwal Kumar Singh - Automation Nexus"
+title                    : "Automation Nexus"
 title_separator          : "-"
 name                     : &name "Ujjwal Kumar Singh"
 description              : &description "personal description"
@@ -64,7 +64,7 @@ author:
   pinterest        : 
   soundcloud       : 
   steam            : 
-  telegram         : "Ujjwal_kSingh"
+  telegram         : https://t.me/Ujjwal_kSingh
   tumblr           : 
   twitter          : # Username for X / Twitter
   vine             : 
