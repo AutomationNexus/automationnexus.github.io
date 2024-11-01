@@ -32,6 +32,7 @@ I have successfully cleared Certified Tester Foundation Level (CTFL) in July 202
 
 Career Details 
 ======
+
 1. Associate Quality Analyst Trainee at Copper Mobile Pvt. Ltd. (September 2021 – November 2021)
 
 As a trainee, my primary responsibilities included writing and executing test cases, logging and tracking defects, and generating detailed reports to share insights with the team and stakeholders. This role served as an important foundation, familiarizing me with the core principles of quality assurance and industry-standard practices.
