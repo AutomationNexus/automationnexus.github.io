@@ -8,25 +8,25 @@ redirect_from:
 ---
 
 
-I am an experienced Quality Analyst dedicated to enhancing product quality with a strong emphasis on improving user experience and functionality across both mobile and web applications. My expertise lies in meticulously analyzing, testing, and ensuring the reliability of software to meet user expectations. I am driven by a passion for quality and a keen interest in staying updated with the latest tools and trends in the industry to provide optimized, high-quality software solutions.
+I am **Quality Analyst** with experience of 3 years and dedicated to enhancing product quality with a strong emphasis on improving user experience and functionality across both mobile and web applications. My expertise lies in analyzing, testing, and ensuring the reliability of software to meet user expectations. I am driven by a passion for quality and a keen interest in staying updated with the latest tools and trends in the industry to provide optimized, high-quality software solutions.
 
-🌱 Currently, I am working extensively with Rest Assured for API testing, applying the BDD (Behavior-Driven Development) framework to build scalable, efficient, and maintainable test scripts. Through this approach, I contribute to seamless integration and reliable communication across different software modules.
+🌱 I am currently working with **Rest Assured for API testing** and using the **BDD framework** to create test scripts that are scalable, efficient, and easy to maintain. This approach helps ensure smooth integration and reliable communication among different software modules.
 
-💞️ I have successfully automated end-to-end functionality for multiple web applications using Selenium combined with Python, utilizing frameworks like Pytest and BDD. This experience has enabled me to build robust automated test suites that streamline repetitive tasks, minimize human error, and boost overall efficiency in the testing process.
+💞️ I have successfully automated end-to-end functionality for multiple web applications using **Selenium** combined with Python, utilizing frameworks like **Pytest and BDD**. This experience has enabled me to build robust automated test suites that streamline repetitive tasks, minimize human error, and boost overall efficiency in the testing process.
 
 ⚡ In addition to my core skills, I have acquired extensive, hands-on experience with several essential tools that form the backbone of my testing strategy. These include:
 
--Postman for API testing, where I design and execute comprehensive API tests to validate endpoints effectively.
+-**Postman for API testing**, where I design and execute comprehensive API tests to validate endpoints effectively.
 
--JIRA for project management, enabling me to track issues, manage tasks, and facilitate communication within the development team.
+-**JIRA** for project management, enabling me to track issues, manage tasks, and facilitate communication within the development team.
 
--TestLink and Zephyr for managing test cases, helping maintain structured test documentation and traceability.
+-**TestLink and Zephyr Squad** for managing test cases, helping maintain structured test documentation and traceability.
 
--Swagger for API documentation, which assists in verifying API specifications and understanding API behavior in real-time.
+-**Swagger for API documentation**, which assists in verifying API specifications and understanding API behavior in real-time.
 
--Git for version control, supporting efficient code management, collaboration, and rollback capabilities, ensuring consistent software updates.
+-**Git for version control**, supporting efficient code management, collaboration, and rollback capabilities, ensuring consistent software updates.
 
-✍️ I have considerable experience in crafting QA documents, from test plans to test cases and defect reports, providing clear insights and actionable feedback to the development team. Additionally, I have integrated various generative AI tools into my QA processes, resulting in improved productivity by automating routine tasks and enhancing data analysis accuracy.
+✍️ I have considerable experience in crafting **QA documents**, from test plans to test cases and defect reports, providing clear insights and actionable feedback to the development team. Additionally, I have integrated various generative AI tools into my QA processes, resulting in improved productivity by automating routine tasks and enhancing data analysis accuracy.
 
 Educational Qualifications
 ======
