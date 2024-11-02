@@ -26,8 +26,10 @@ With everyone in the room, we started digging into the problem. As time passed, 
 Once we fixed the issue, it was time to test. Testing is crucial when deploying to production, so we tested on the test environment first, then moved it to staging. After a quick sanity check on staging, we got the sign-off for production. This whole process took around 5 hours, and by the time we deployed the hotfix on production, it was already 10:15 p.m., making us late to the party.
 
 **Lessons Learned**
+<ul>
+<li>Every missed bug teaches us something. While some team members missed the party, we made sure to take lessons from this bug to avoid similar issues in the future. The biggest takeaway was to always use the smartest testing approach. Time is often limited, so finding ways to ensure software quality within those limits is essential. One helpful method is pairwise testing. When a module has various functions and options, testing each one against every other option can take a lot of time. Prioritizing pairwise testing lets us test essential combinations and catch hidden bugs more efficiently.</li>
 
-Every missed bug teaches us something. While some team members missed the party, we made sure to take lessons from this bug to avoid similar issues in the future. The biggest takeaway was to always use the smartest testing approach. Time is often limited, so finding ways to ensure software quality within those limits is essential. One helpful method is pairwise testing. When a module has various functions and options, testing each one against every other option can take a lot of time. Prioritizing pairwise testing lets us test essential combinations and catch hidden bugs more efficiently.
+<li>Another lesson was about teamwork. Social gatherings are important, but when the whole team is working together on something, stepping up and doing our part makes a big difference.</li>
 
-Another lesson was about teamwork. Social gatherings are important, but when the whole team is working together on something, stepping up and doing our part makes a big difference.
+</ul>
 
