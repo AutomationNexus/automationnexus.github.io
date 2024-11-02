@@ -27,9 +27,24 @@ Once we fixed the issue, it was time to test. Testing is crucial when deploying 
 
 **Lessons Learned**
 <ul>
-<li>Every missed bug teaches us something. While some team members missed the party, we made sure to take lessons from this bug to avoid similar issues in the future. The biggest takeaway was to always use the smartest testing approach. Time is often limited, so finding ways to ensure software quality within those limits is essential. One helpful method is pairwise testing. When a module has various functions and options, testing each one against every other option can take a lot of time. Prioritizing pairwise testing lets us test essential combinations and catch hidden bugs more efficiently.</li>
 
-<li>Another lesson was about teamwork. Social gatherings are important, but when the whole team is working together on something, stepping up and doing our part makes a big difference.</li>
+<li> <b>Every bug teaches a lesson</b>
+Some team members missed the Diwali party, but we didn’t want to miss the opportunity to learn from this bug to prevent similar issues in the future.</li>
+
+<li>  <b>Choose the smartest testing approach</b>
+Often, time is limited, so selecting a testing method that ensures quality within tight schedules is crucial.</li>
+
+<li>  <b>The value of pairwise testing </b>
+Pairwise testing is especially helpful when a module has multiple functions and options. Testing every single option against all others can be very time-consuming.</li>
+
+<li>  <b>Focus on key combinations </b>
+Instead of testing every possible combination, pairwise testing allows us to focus on the most important ones. This approach lets us cover essential ground without getting stuck in endless tests.</li>
+
+<li>  <b>Catch hidden bugs more efficiently </b>
+By testing these prioritized combinations, we can find hidden bugs faster, even with limited time.</li>
+
+<li>  <b>Teamwork is essential</b>
+Another important lesson was about teamwork. Social gatherings are meaningful, but when the whole team is working together on something critical, stepping up and doing our part makes a big difference.</li>
 
 </ul>
 
