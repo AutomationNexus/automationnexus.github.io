@@ -1,7 +1,7 @@
 ---
 title: 'A Bug which Spoil Diwali Party '
 date: 20-10-2024
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/a-diwali-party-bug/
 tags:
   - cool posts
   - category1
